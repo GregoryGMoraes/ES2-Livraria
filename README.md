@@ -11,6 +11,6 @@
 <a href="https://github.com/angelogluz"><img src="https://avatars3.githubusercontent.com/u/5839083?s=460&u=22ba4f91004a807ce728237cf1f275000dd8fe3a&v=4" width="40" height="40"></a>
 
 # Colaboradores
-<a href="https://github.com/rstferro"><img src="" width="40" height="40"></a>
+<a href="https://github.com/rstferro"><img src="https://avatars.githubusercontent.com/u/48092964?v=4" width="40" height="40"></a>
 <a href="https://github.com/GregoryGMoraes"><img src="https://avatars0.githubusercontent.com/u/28300868?s=460&v=4" width="40" height="40"></a>
 
